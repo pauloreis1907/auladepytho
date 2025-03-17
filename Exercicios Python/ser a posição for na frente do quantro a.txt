@@ -1,0 +1,5 @@
+ser  a posição for na frente do quantro apenas levanta, ae vc pode exercuta seu codigo: 
+
+passo1: caminha para frente
+passo2: um passo para direita
+passo3: caminha 18 vezes
